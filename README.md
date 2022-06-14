@@ -1,8 +1,6 @@
 # Bootcamp Geração Tech Unimed-BH | Fullstack
-
-
 *Cronograma de estudos*
+## Links Úteis
+[DIO](https://www.dio.me/)
 
-
-## Link do Bootcamp:
-[DIO](https://web.dio.me/track/geracao-tech-unimed-bh-fullstack)
+[Bootcamp](https://web.dio.me/track/geracao-tech-unimed-bh-fullstack)
