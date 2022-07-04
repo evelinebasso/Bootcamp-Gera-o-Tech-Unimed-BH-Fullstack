@@ -4,6 +4,8 @@
 
 *Projeto Integrador - Posicionando elementos com Flexbox em CSS*
 
+*Desafio de Projeto - Recriando a Página Inicial do Instagram*
+
 ## Links Úteis
 
 [DIO](https://www.dio.me/)
