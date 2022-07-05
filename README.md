@@ -6,6 +6,8 @@
 
 *Desafio de Projeto - Recriando a Página Inicial do Instagram*
 
+*Projetos JavaScript* 
+
 ## Links Úteis
 
 [DIO](https://www.dio.me/)
